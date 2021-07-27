@@ -1,0 +1,2 @@
+# K-means-and-K-medians-Clustering-with-Normalisation-
+K means and K medians clustering are implemented to cluster the data from all data files fruits, countries, veggies and animals. Each clustering is run with K values 1-9, returning the B-CUBED precision, recall and F score, which are plotted on graphs with k in the horizontal axis and the B-CUBED precision, recall and F-score in the vertical axis in the same plot.
